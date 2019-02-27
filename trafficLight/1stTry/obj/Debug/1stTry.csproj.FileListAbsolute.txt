@@ -1,0 +1,7 @@
+D:\seavus\C#\trafficLight\1stTry\obj\Debug\1stTry.csprojAssemblyReference.cache
+D:\seavus\C#\trafficLight\1stTry\obj\Debug\1stTry.csproj.CoreCompileInputs.cache
+D:\seavus\C#\trafficLight\1stTry\bin\Debug\1stTry.exe.config
+D:\seavus\C#\trafficLight\1stTry\bin\Debug\1stTry.exe
+D:\seavus\C#\trafficLight\1stTry\bin\Debug\1stTry.pdb
+D:\seavus\C#\trafficLight\1stTry\obj\Debug\1stTry.exe
+D:\seavus\C#\trafficLight\1stTry\obj\Debug\1stTry.pdb
