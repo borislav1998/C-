@@ -1,0 +1,7 @@
+D:\seavus\C#\homeWorks\Excercise 8\Excercise 8\bin\Debug\Excercise 8.exe.config
+D:\seavus\C#\homeWorks\Excercise 8\Excercise 8\bin\Debug\Excercise 8.exe
+D:\seavus\C#\homeWorks\Excercise 8\Excercise 8\bin\Debug\Excercise 8.pdb
+D:\seavus\C#\homeWorks\Excercise 8\Excercise 8\obj\Debug\Excercise 8.csprojAssemblyReference.cache
+D:\seavus\C#\homeWorks\Excercise 8\Excercise 8\obj\Debug\Excercise 8.csproj.CoreCompileInputs.cache
+D:\seavus\C#\homeWorks\Excercise 8\Excercise 8\obj\Debug\Excercise 8.exe
+D:\seavus\C#\homeWorks\Excercise 8\Excercise 8\obj\Debug\Excercise 8.pdb

@@ -1,0 +1,7 @@
+D:\seavus\C#\homeWorks\Excericse 7\Excericse 7\bin\Debug\Excericse 7.exe.config
+D:\seavus\C#\homeWorks\Excericse 7\Excericse 7\bin\Debug\Excericse 7.exe
+D:\seavus\C#\homeWorks\Excericse 7\Excericse 7\bin\Debug\Excericse 7.pdb
+D:\seavus\C#\homeWorks\Excericse 7\Excericse 7\obj\Debug\Excericse 7.csprojAssemblyReference.cache
+D:\seavus\C#\homeWorks\Excericse 7\Excericse 7\obj\Debug\Excericse 7.csproj.CoreCompileInputs.cache
+D:\seavus\C#\homeWorks\Excericse 7\Excericse 7\obj\Debug\Excericse 7.exe
+D:\seavus\C#\homeWorks\Excericse 7\Excericse 7\obj\Debug\Excericse 7.pdb
