@@ -1,0 +1,6 @@
+D:\seavus\C#\Git\C-\class3\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\seavus\C#\Git\C-\class3\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\seavus\C#\Git\C-\class3\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\seavus\C#\Git\C-\class3\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\seavus\C#\Git\C-\class3\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\seavus\C#\Git\C-\class3\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
