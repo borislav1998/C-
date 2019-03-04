@@ -13,7 +13,7 @@ namespace Excercise_8
             Console.WriteLine("Please enter 1,2 or 3");
             int num;
             bool input = Int32.TryParse(Console.ReadLine(), out num);
-            if (input == true && num <= 3)
+            if (input == true)
             {
                     switch (num)
                     {
