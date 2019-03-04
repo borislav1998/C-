@@ -13,7 +13,7 @@ namespace Excercise_8
             Console.WriteLine("Please enter 1,2 or 3");
             int num;
             bool input = Int32.TryParse(Console.ReadLine(), out num);
-            if (input = true && num <= 3)
+            if (input == true && num <= 3)
             {
                     switch (num)
                     {
@@ -26,6 +26,8 @@ namespace Excercise_8
                         case 3:
                             Console.WriteLine("You got a new bike");
                             break;
+                        default:
+                            Console.WriteLine("You entered higher number!!")
                     };
                
 
